@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: college student
+role: graduate student
 
 # Organizations/Affiliations
 organizations:
@@ -69,5 +69,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-とある大学の四回生です。
+大阪に住んでいますM1になりました。  
+新しい技術やものに興味があります。  
+取得した資格、参加したプロジェクト、作ったものなどは下をご覧ください。  
+どのようなことを学んだのかなど詳細については、個別に対応させていただける時にお話できれば幸いです。
