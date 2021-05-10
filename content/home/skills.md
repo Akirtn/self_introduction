@@ -21,7 +21,7 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "統計検定2級を所持、B3の時データサイエンティストとして二週間のインターンを経験しました。"  
+  description = "B3の時データサイエンティストとして二週間のインターンを経験しました。"  
 
 [[feature]]
   icon = "pen"
