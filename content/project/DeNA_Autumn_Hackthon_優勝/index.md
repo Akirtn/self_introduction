@@ -1,9 +1,9 @@
 ---
-title: B4 ものづくりコンテスト(Andoirdアプリ開発)
-summary: 弊大学専用の時間割アプリをkotlinを用いて開発しました。要件定義進め方などさまざまなことを学ぶことができました
+title: M1 DeNA_Autumn_Hackthon_優勝(webapp開発,2日間)
+summary: DeNAが開催するハッカソンに参加し，優勝しました．
 tags:
-- Android
-date: "2020-04-27T00:00:00Z"
+- Deep Learning
+date: "2021-08-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ""
@@ -24,4 +24,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-詳細については、個別にお願いします。
+詳細については、個別にお願いします。  

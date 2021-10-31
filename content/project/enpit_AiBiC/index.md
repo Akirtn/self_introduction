@@ -1,5 +1,5 @@
 ---
-title: enpit AiBiC
+title: B3 enpit AiBiC
 summary: 他の大学の学生と合宿を行いながら、AIについて学び、最終課題として自動発注システムの開発をグループで行いました。
 tags:
 - Deep Learning

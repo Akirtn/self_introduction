@@ -1,9 +1,9 @@
 ---
-title: B4 ものづくりコンテスト(Andoirdアプリ開発)
-summary: 弊大学専用の時間割アプリをkotlinを用いて開発しました。要件定義進め方などさまざまなことを学ぶことができました
+title: M1 企業インターン(１週間)
+summary: 企業の提供するサービス理解及び開発
 tags:
-- Android
-date: "2020-04-27T00:00:00Z"
+- Deep Learning
+date: "2021-09-00T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ""
@@ -24,4 +24,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-詳細については、個別にお願いします。
+サービスの一つに対して理解を深めるために、類似課題を解決することを目的に、チームメンバーと一緒にシステムの開発に取り組み、成果発表を行いました。

@@ -1,9 +1,9 @@
 ---
-title: B2 Robocup Project
-summary: ロボカッププロジェクトに参加し、画像認識班として活動しました。
+title: B4 企業との共同研究
+summary: 学部４回生において，相手方の課題を解決すべく多くの論文を読み，実装を行い，結果として来年も引き続きお願いしたいとの声をいただきました．また，成果の一部は人工知能学会にて発表しました．
 tags:
 - Deep Learning
-date: "2020-04-27T00:00:00Z"
+date: "2020-06-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ""
@@ -23,7 +23,5 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: example
----
-Read Sense D435(深度センサーカメラ)、JetsonTX2(AIエッジ機器)をハードとして利用し、Kerasを用いて人、物体の画像認識の開発を行いました。  
-最後にROS(Robot Operating System)というソフトに対応したプログラムに書き換えることで、ロボットで実際に利用することができるようにしました。  
+---  
 詳細については、個別にお願いします。
